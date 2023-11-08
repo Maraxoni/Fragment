@@ -1,0 +1,23 @@
+
+r
+Bapp/src/main/java/com/example/fragment/SingleFragmentActivity.java,8\3\83721bd44d387d5d97c777e79e2c724eeb3cac25
+`
+0app/src/main/java/com/example/fragment/Task.java,9\4\940729d6592d189808e5143480551ecfe051bddf
+h
+8app/src/main/java/com/example/fragment/TaskFragment.java,2\8\2821fe9b423f276ebf790d6967daaf03ef976825
+l
+<app/src/main/java/com/example/fragment/TaskListFragment.java,5\9\591b5267fb7cfd38a199697b6586dd878065905e
+l
+<app/src/main/java/com/example/fragment/TaskListActivity.java,6\f\6f85cb823c17b6801923f69b2c4de9ae7fc45980
+g
+7app/src/main/java/com/example/fragment/TaskStorage.java,7\7\77ebb1e0d0d252e277ba5f6a4b1c1fe786e10c97
+h
+8app/src/main/java/com/example/fragment/MainActivity.java,0\7\07865cc1d7f2f0d74fe9f4764f24c9ea824f3f6d
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
