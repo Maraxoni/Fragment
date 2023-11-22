@@ -6,9 +6,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.example.fragment.R;
-
-
 public abstract class SingleFragmentActivity extends AppCompatActivity {
 
     @Override

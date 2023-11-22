@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name ="TextFieldsStyle">
+        <item name="android:background">@color/textSecondaryColor</item>
+        <item name="android:title">@color/textSecondaryColor</item>
+        <item name="android:textColor">@color/backgroundColor</item>
+        <item name="android:textSize">@dimen/text_field_size</item>
+        <item name="android:padding">@dimen/text_field_padding</item>
+    </style>
+</resources>
